@@ -16,7 +16,7 @@
 </div>
 <div align="center">
   <h3>Links</h3>
-  <a href="https://www.youtube.com/channel/UCS11KcHBBiPY-TV-rD5jvbg" target="_blank">
+  <a href="https://www.youtube.com/channel/UCS11KcHBBiPY-TV-rD5jvbg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/>
   </a>
 </div>
