@@ -15,6 +15,12 @@
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
 </div>
 <div align="center">
+  <h3>Links</h3>
+  <a href="https://www.youtube.com/channel/UCS11KcHBBiPY-TV-rD5jvbg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/>
+  </a>
+</div>
+<div align="center">
   <h3>Statistics</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sixpennyfox4&theme=github_dark&show_icons=true" />
