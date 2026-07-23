@@ -3,16 +3,8 @@
   <h5>Self-Taught Programmer</h5>
 </div>
 <div align="center">
-  <h3>Languages (that i use often)</h3>
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
+  <h3>Languages</h3>
   <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
-</div>
-<div align="center">
-  <h3>Tools</h3>
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
 </div>
 <div align="center">
   <h3>Statistics</h3>
