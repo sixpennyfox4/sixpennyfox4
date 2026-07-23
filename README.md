@@ -20,6 +20,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sixpennyfox4&theme=github_dark&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixpennyfox4&theme=github_dark&show_icons=false&card_width=350" />
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sixpennyfox4&theme=github_dark&show_icons=false&card_width=350" />
   </a>
 </div>
